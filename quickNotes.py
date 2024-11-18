@@ -14,3 +14,4 @@ uni = "Uganda Christian University"
 #IT is a beautiful course 
 
 print(f"I joined the university in the year {year} doing {course} which commences for {duration} years. I started my first semester in {month1} which was a bit difficult but God led me through. In the first semester, I was doing six course units which included;{courseUnit1},{courseUnit2},{courseUnit3},{courseUnit4},{courseUnit5} and {courseUnit6}. The last two course units {courseUnit5} and {courseUnit6} are privately for our University.")
+print(f"I am studying at {uni}. ")
